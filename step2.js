@@ -4,7 +4,7 @@ function getAndPrintHTML () {
 
   var requestOptions = {
     host: 'sytantris.github.io',
-    path: '/http-practice/step2.html'
+    path: '/http-examples/step2.html'
   };
 
 // notice that https.get takes a callback with one parameter -

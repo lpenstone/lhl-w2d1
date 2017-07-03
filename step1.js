@@ -8,7 +8,7 @@ function getAndPrintHTMLChunks() {
 
   var requestOptions = {
     host: 'sytantris.github.io',
-    path: '/http-pactice/step1.html'
+    path: '/http-example/step1.html'
   };
 
 // notice that https.get takes a callback with one parameter -
